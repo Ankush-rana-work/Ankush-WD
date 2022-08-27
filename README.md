@@ -6,6 +6,8 @@
 - 💬 Ask me about **PHP, Laravel**
 
 - 📫 How to reach me **ankush0094@gmail.com**
+- 
+-  ⚡ Fun fact **Chai lover over coffer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
