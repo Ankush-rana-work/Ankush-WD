@@ -2,11 +2,8 @@
 <h3 align="center">A passionate PHP Developer from India</h3>
 
 - 🌱 I’m currently learning **Laravel**
-
 - 💬 Ask me about **PHP, Laravel**
-
 - 📫 How to reach me **ankush0094@gmail.com**
-- 
 -  ⚡ Fun fact **Chai lover over coffer**
 
 <h3 align="left">Connect with me:</h3>
