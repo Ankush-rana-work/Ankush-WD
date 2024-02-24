@@ -6,11 +6,6 @@
 - 📫 How to reach me **ankush0094@gmail.com**
 -  ⚡ Fun fact **Chai lover over coffer**
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ankush-rana-work&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -46,6 +41,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="30" alt="sequelize logo"  />
 </div>
 <br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ankush-rana-work&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" width="50%" alt="streak graph"  />
+</div>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Ankush-rana-work&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
