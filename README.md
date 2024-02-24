@@ -6,9 +6,10 @@
 - 📫 How to reach me **ankush0094@gmail.com**
 -  ⚡ Fun fact **Chai lover over coffer**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ankush-rana-work&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
